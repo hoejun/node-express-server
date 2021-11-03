@@ -3,6 +3,7 @@
 export const getUser = async () => {
   try {
     console.log('테이블 정보');
+    console.log('테이블 정보');
   } catch (error) {
     console.log(error);
   }

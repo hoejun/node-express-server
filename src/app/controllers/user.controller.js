@@ -1,9 +1,10 @@
-// import User from '../models/user.model.js';
+// import User from '../../../models/user.js';
 
-export const getUser = async () => {
+export const getUser = async (req, res) => {
   try {
-    console.log('테이블 정보');
-    console.log('테이블 정보');
+    // const user = await User.findAll({
+    //   at,
+    // });
   } catch (error) {
     console.log(error);
   }

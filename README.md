@@ -6,3 +6,4 @@ express 서버
 
 시퀄라이즈
 express
+시퀄라이즈 doc 정독
